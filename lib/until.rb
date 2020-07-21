@@ -10,5 +10,3 @@ def
   levitation_force += 1
     
 end
-
-"puts out the phrase 'Wingardium Leviosa' until the levitation force is incremented to 10"
