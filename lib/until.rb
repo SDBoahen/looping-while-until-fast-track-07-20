@@ -4,7 +4,7 @@ def
   
   levitation_force = 6
   
-  until 
+  until levitation_force == 10
   puts "Wingardium Leviosa"
   
   levitation_force += 1
